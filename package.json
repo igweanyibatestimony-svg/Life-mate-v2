@@ -1,0 +1,8 @@
+{
+  "name": "lifemate",
+  "version": "3.0.0",
+  "description": "12‑page AI companion dashboard",
+  "dependencies": {
+    "openai": "^4.20.0"
+  }
+}
